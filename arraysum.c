@@ -14,6 +14,8 @@ int main()
     printf("Enter array elements\n");
     for(i = 0; i < size; i++)
           scanf("%d",&arr[i]);
+for(i = 0; i < size; i++)
+          scanf("%d",&arr[i]);111
           
     //add all elements to the variable sum.
     for(i = 0; i < size; i++)
